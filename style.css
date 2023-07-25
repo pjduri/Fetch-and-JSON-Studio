@@ -14,3 +14,8 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+
+/* bonus mission 2 */
+.active {
+    color: green;
+}
